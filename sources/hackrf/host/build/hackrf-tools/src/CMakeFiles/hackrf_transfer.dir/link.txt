@@ -1,0 +1,1 @@
+/usr/bin/cc   -std=gnu90    CMakeFiles/hackrf_transfer.dir/hackrf_transfer.c.o  -o hackrf_transfer -rdynamic ../../libhackrf/src/libhackrf.so.0.4.0 -lusb-1.0 -lpthread -Wl,-rpath,/home/badimsibox/hackrf/host/build/libhackrf/src: 

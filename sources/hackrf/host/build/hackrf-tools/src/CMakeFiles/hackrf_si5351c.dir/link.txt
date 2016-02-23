@@ -1,0 +1,1 @@
+/usr/bin/cc   -std=gnu90    CMakeFiles/hackrf_si5351c.dir/hackrf_si5351c.c.o  -o hackrf_si5351c -rdynamic ../../libhackrf/src/libhackrf.so.0.4.0 -lusb-1.0 -lpthread -Wl,-rpath,/home/badimsibox/hackrf/host/build/libhackrf/src: 

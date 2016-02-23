@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libhackrf/src/hackrf.h
+stdint.h
+-
+
+/home/badimsibox/hackrf/host/hackrf-tools/src/hackrf_max2837.c
+hackrf.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+getopt.h
+-
+

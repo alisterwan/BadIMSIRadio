@@ -1,0 +1,10 @@
+/home/badimsibox/hackrf/host/build/libhackrf/src/CMakeFiles/hackrf.dir
+/home/badimsibox/hackrf/host/build/libhackrf/src/CMakeFiles/hackrf-static.dir
+/home/badimsibox/hackrf/host/build/hackrf-tools/src/CMakeFiles/hackrf_cpldjtag.dir
+/home/badimsibox/hackrf/host/build/hackrf-tools/src/CMakeFiles/hackrf_info.dir
+/home/badimsibox/hackrf/host/build/hackrf-tools/src/CMakeFiles/hackrf_max2837.dir
+/home/badimsibox/hackrf/host/build/hackrf-tools/src/CMakeFiles/hackrf_rffc5071.dir
+/home/badimsibox/hackrf/host/build/hackrf-tools/src/CMakeFiles/hackrf_si5351c.dir
+/home/badimsibox/hackrf/host/build/hackrf-tools/src/CMakeFiles/hackrf_spiflash.dir
+/home/badimsibox/hackrf/host/build/hackrf-tools/src/CMakeFiles/hackrf_transfer.dir
+/home/badimsibox/hackrf/host/build/CMakeFiles/uninstall.dir

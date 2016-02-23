@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/badimsibox/hackrf/host/libhackrf/src/hackrf.c
+hackrf.h
+/home/badimsibox/hackrf/host/libhackrf/src/hackrf.h
+stdlib.h
+-
+libusb.h
+-
+pthread.h
+-
+stdio.h
+-
+string.h
+-
+
+/home/badimsibox/hackrf/host/libhackrf/src/hackrf.h
+stdint.h
+-
+
+/usr/include/libusb-1.0/libusb.h
+stdint.h
+-
+sys/types.h
+-
+sys/time.h
+-
+time.h
+-
+limits.h
+-
+windows.h
+-
+winsock.h
+-
+

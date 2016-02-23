@@ -1,0 +1,25 @@
+/*! \mainpage
+
+\image html gnuradio-logo.svg
+
+Welcome to GNU Radio!
+
+For details about GNU Radio and using it, please see the
+<a href="http://gnuradio.org" target="_blank"><b>main project page</b></a>.
+
+Other information about the project and discussion about GNU Radio,
+software radio, and communication theory in general can be found at
+the <a href="http://www.trondeau.com" target="_blank"><b>GNU Radio blog</b></a>.
+
+This manual is split into two parts: A usage manual and a reference. The usage manual
+deals with concepts of GNU Radio, introductions, how to build GNU Radio etc.
+The reference contains a list of all GNU Radio components, sorted by in-tree components,
+modules, files, namespaces and classes.
+
+To access these parts, follow these links or use the tree browser in the left sidebar.
+A search function is also available at the top right.
+
+\li \subpage page_usage "Part I - GNU Radio Usage"
+\li \subpage page_components "Part II - Reference"
+
+*/
